@@ -4,10 +4,10 @@ var info = {
     "email": "Khokharshahadat@gmail.com",
     "phone_number":"+917415033672",
     "address":"Indore, Madhya Pradesh, India",
-    "about_me":"I'm Software Engineer, Blogger and an Artist, I am omnivert and a hyperactive guy. I have interests in Human Psychology and Behavior. I often find it amusing to discover new places and I don't mind going out by myself, I blog about day to day psychology related matter and draw and sketch whenever I'm emotional",
+    "about_me":"I'm Software Engineer, Blogger and an Artist, I am omnivert and a hyperactive guy. I have interests in Human Psychology and Behavior. I often find it amusing to discover new places and I don't mind going out by myself, I blog about day to day psychology related matter and draw and sketch whenever I'm emotional.",
     "instagram":"https://www.instagram.com/iamshahadatkhokhar",
     "linkedin": "https://www.linkedin.com/in/md-shahadat-khokhar/",	
-    "twitter":"",
+    "twitter":"#",
     "github":"https://github.com/shahadat-jit",
 
 }

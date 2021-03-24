@@ -228,7 +228,7 @@ var educationTemplate="";
 					
 					for(var edu=0;edu<educationInfo.length;edu++)
 					{
-						educationTemplate+=`<li class="timeline-inverted animate-box >
+						educationTemplate+=`<li class="timeline-inverted animate-box" >
 						<div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
 						<div class="timeline-panel">
 							<div class="timeline-heading">
